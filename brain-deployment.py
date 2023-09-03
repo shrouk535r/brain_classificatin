@@ -11,7 +11,6 @@ Original file is located at
 
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
 from PIL import Image
 from skimage.transform import resize
 import tensorflow as tf
